@@ -24,7 +24,7 @@ I'm all about creating web designs that just work—pixel-perfect and user-frien
 👀 Check out my pinned repos for a glimpse of my evolving skills. Always up for new challenges and having a blast designing and coding in my free time.
 
 ### Let's Connect🤝
-Excited to chat with developers, designers, or anyone into cool tech stuff. Hit me up at contact.ishfaqghani111@gmail.com 💌. Let's dive into some creative coding adventures!
+Excited to chat with developers, designers, or anyone into cool tech stuff. Hit me up at contact ishfaqghani111@gmail.com 💌. Let's dive into some creative coding adventures!
 
 ### Proficiencies and Toolset 🛠️
 
