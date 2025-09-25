@@ -1,39 +1,108 @@
-<h1 align="center">Hi, I'm ISHFAQ GHANI!👋🙂</h1>
+# Ishfaq Ghani
 
-<div align="center">
-<a href="https://www.linkedin.com/in/iishfooghani">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
-</a>
-<a href="https://www.facebook.com/ishfooghani">
-<img src=https://img.shields.io/badge/facebook-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=facebook&logoColor=white alt=twitter />
-</a>
-<a href="mailto:contact.ishfaqghani111gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=mail/>
-</a>
-</div>
-  
-<hr />
+**Data Coordinator | Full-Stack Developer | IT Specialist**
 
-Hey there! 🚀 I'm a Front-End Web Developer on an exciting coding journey, crafting captivating digital experiences for users to enjoy effortlessly.
+Kohat, Pakistan  
+[LinkedIn](https://linkedin.com/in/iishfooghani/) • Email: ishfaqghani111@gmail.com • WhatsApp: +92 333 2272830
 
-### About Myself 😎
-I'm all about creating web designs that just work—pixel-perfect and user-friendly vibes. Keeping it simple and accessible for everyone.
+---
 
-🛠️ Built 10+ websites, showcasing my front-end skills on Frontend Mentor. I love checking out others' work, giving feedback, and learning in the process.
+## 🌟 About Me
 
-👀 Check out my pinned repos for a glimpse of my evolving skills. Always up for new challenges and having a blast designing and coding in my free time.
+Detail-oriented and highly organized Data Coordinator with expertise in data management, analysis, and reporting. Proficient in SQL, Python, and Power BI for data processing and visualization. Experienced Full-Stack Developer skilled in React.js, Laravel, PHP, Node.js, and Vue.js. Passionate about education, technology, and IT consultancy, with hands-on experience in teaching, development, and project management.
 
-### Let's Connect🤝
-Excited to chat with developers, designers, or anyone into cool tech stuff. Hit me up at contact ishfaqghani111@gmail.com 💌. Let's dive into some creative coding adventures!
+---
 
-### Proficiencies and Toolset 🛠️
+## 🧑‍💻 Work Experience
 
-[HTML](https://developer.mozilla.org/en-US/docs/Web/html) - [CSS](https://developer.mozilla.org/en-US/docs/Web/css) - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript)
+**Facilitator**  
+_Sarhad Rural Support Program (SRSP), Kohat_  
+_Aug 2023 – Dec 2024_  
+- Led group workshops and discussions.
+- Promoted collaboration and problem-solving.
+- Mobilized community for collective action.
+- Assisted students with educational goals.
+- Fostered inclusive learning environments.
 
-[Sass](https://sass-lang.com/)  - [Styled components](https://styled-components.com/)
+**Visiting Lecturer**  
+_Government College of Technology, Kohat_  
+_Sep 2023 – Feb 2024_  
+- Guided students on Python projects.
+- Conducted workshops on HTML, CSS, JavaScript.
+- Instilled fundamentals of database management and SQL.
 
-[React](https://react.dev/) - [React Query](https://tanstack.com/query/latest/) 
+**Web Developer**  
+_National Expansion Plan of NICs, KUST_  
+_Jan 2023 – Jul 2023_  
+- Designed and developed websites for startups.
+- Collaborated on responsive UI/UX and backend integration.
+- Maintained and updated websites, resolved issues.
 
-[Git](https://git-scm.com/) - [Figma](https://www.figma.com/) - [VS Code](https://code.visualstudio.com/) - [Webpack](https://webpack.js.org/) 
+---
 
-<br/>
+## 🎓 Education
+
+**Bachelor of Science in Computer Science**  
+_Kohat University of Science & Technology (KUST)_  
+_Sep 2019 – Jul 2023 • CGPA: 3.00/4.00_  
+- Final Year Project: eSehat – Hospital Management System (React.js & MongoDB)
+
+**Diploma of Information Technology (DIT)**  
+_KP Board of Technical & Commerce Education, Peshawar_  
+_Sep 2020 – Sep 2021 • Grade: A_
+
+**FSc Pre Engineering & Matric**  
+_BISE Kohat_  
+- FSc (Grade: A), Matric (Grade: B)
+
+---
+
+## 💼 Technical Skills
+
+- **Programming:** HTML, CSS, Bootstrap, JavaScript, PHP, Python
+- **Frameworks:** React.js, Laravel, Node.js, Vue.js, Laravue
+- **Databases:** SQL, MySQL, PostgreSQL, MongoDB
+- **DevOps:** Git, Docker, REST APIs
+- **Data Analysis & Visualization:** Power BI, Tableau, Google Data Studio, Excel (Advanced)
+- **Design:** Adobe Photoshop, Illustrator, Figma, Canva, Corel Draw, Inpage
+- **IT Support:** Windows/Mac, VPNs, Firewalls, Network Monitoring, Hardware Diagnostics
+- **Automation:** Bash, PowerShell
+
+---
+
+## 📈 Certifications
+
+- **Automate Tasks & Processes with Jira** – Coursera ([Verify](https://coursera.org/verify/TD78R4B32N3G))
+- **Digital Marketing Campaign Dashboards with Tableau** – Coursera ([Verify](https://coursera.org/verify/GQ0VC308YJU8))
+- **Web Development in React.js: Basics** – Coursera ([Verify](https://coursera.org/verify/OR8RTRYUSGS9))
+- **Introduction to Cybersecurity** – Cisco Networking Academy
+- **E-Commerce Management, Freelancing, WordPress, Graphic Designing** – Digiskill.pk
+- **Web Designing & Development, Social Media Marketing** – Axis Skill Training
+- **IT for E-Rozgar (Technical)** – Short Course
+
+---
+
+## 🏆 Achievements & Projects
+
+- **eSehat**: Automated hospital management system (React.js, MongoDB).
+- **Konsultanti**: Consulting platform (WordPress).
+- Developed and optimized e-commerce websites (payment & WhatsApp integration).
+- Facilitated digital literacy workshops for underprivileged students.
+
+---
+
+## 🌐 Languages
+
+- **Urdu:** Native
+- **English:** Professional
+- **Pashto:** Fluent
+
+---
+
+## 🎯 Hobbies & Interests
+
+Reading • Writing • Sports • Traveling • Photography
+
+---
+
+> _“Passionate about leveraging technology and data to drive innovation and empower communities.”_
