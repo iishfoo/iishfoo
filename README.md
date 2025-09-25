@@ -16,11 +16,11 @@ Detail-oriented and highly organized Data Coordinator with expertise in data man
 ## 🧑‍💻 Work Experience
 
 **Data Coordinator**  
-_Micromerger Pvt Ltd , Kohat_  
+_Micromerger Pvt Ltd, Kohat_  
 _Jan 2025 – Present_  
--Managing and analyzing large datasets to drive operational efficiency. 
--Developing automated dashboards and reports using Power BI & SQL. 
--Ensuring data accuracy and security while optimizing workflows. 
+- Managing and analyzing large datasets to drive operational efficiency.
+- Developing automated dashboards and reports using Power BI & SQL.
+- Ensuring data accuracy and security while optimizing workflows.
 
 **Facilitator**  
 _Sarhad Rural Support Program (SRSP), Kohat_  
